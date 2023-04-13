@@ -5,9 +5,10 @@ Using Python in Grasshopper with imported flood map data, I will create viewport
 
 ## Intstallation instructions
 
-- **Bold Bullet point:** 
-- **Bold Bullet point:** 
-- **Bold Bullet point:** 
+- **Bold Bullet point:** Download the GHA file
+- **Bold Bullet point:** Download the corresponding documents
+- **Bold Bullet point:** Download generation from food4Rhino
+- **Bold Bullet point:** Video tutorial linked here
 
 -[Link to live VR site](https://immersive-example.glitch.me)
 
