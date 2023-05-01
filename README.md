@@ -4,13 +4,13 @@ SeaLevel X is an architectural design tool meant to connect human users as part 
 	
 Man-made disasters must be accounted for when designing for the future of transient environments. Simply presenting visuals or images may not be sufficient to engage people and motivate them to take action on an issue. By bringing the user physically and virtually into the future, I hope to incite an emotional response to prompt climate action.
 
-## Intstallation instructions
+## Installation instructions
 
-- **Bold Bullet point:** Download the GHA file
-- **Bold Bullet point:** Download the corresponding documents
-- **Bold Bullet point:** Download generation from food4Rhino
-- **Bold Bullet point:** Video tutorial linked here
+- Download and install dependency Generation https://www.food4rhino.com/en/app/generation
+- Download and install dependency Human UI https://www.food4rhino.com/en/app/human-ui
+- Download the GHA files
 
--[Link to live VR site](https://immersive-example.glitch.me)
 
--[Link to edit VR site](https://glitch.com/edit/#!/immersive-example)
+-[Link to live VR site](https://sea-level-x-vr.glitch.me/)
+
+-[Link to edit VR site](https://glitch.com/edit/#!/sea-level-x-vr)
