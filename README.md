@@ -1,8 +1,9 @@
 # Sea Level X
 
-SeaLevel X is an architectural design tool meant to connect human users as part of the loop that generates sea level rise. In doing so, the hope is to harvest the user's nervousness to trigger potential outcomes. The project engages time by allowing the user to design today while constantly interacting with the consequences of the future.
-	
-Man-made disasters must be accounted for when designing for the future of transient environments. Simply presenting visuals or images may not be sufficient to engage people and motivate them to take action on an issue. By bringing the user physically and virtually into the future, I hope to incite an emotional response to prompt climate action.
+Sea Level X is an architectural design tool meant to challenge the traditional mode of architectural site representation and connect the human user to the transient outcomes. Architectural site representation assumes stagnancy of site rather than accepting the transiency of coastal sites due to climate change. Sea Level X allows the architect to design today while constantly interacting with future versions of their coastal site. I hope to incite an emotional response in the user to prompt climate action. In turn, the level of nervousness in the user directly affects the rate in which climate change progresses, causing a feedback loop. 
+For non-architectural designers, the user can experience a VR walk-through of one of the potential outcomes of a chosen future city using A-Frame through Glitch. The user can also choose an AR experience where they can watch their own immediate space be “transported” to a chosen coastal city and brought through the effects of time. Though not trained designers, the visitor can view their immediate space become transitory, leading to climate action.
+
+
 
 ## Installation instructions
 
