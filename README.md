@@ -9,9 +9,14 @@ For non-architectural designers, the user can experience a VR walk-through of on
 
 - Download and install dependency Generation https://www.food4rhino.com/en/app/generation
 - Download and install dependency Human UI https://www.food4rhino.com/en/app/human-ui
-- Download the GHA files
+- Download the Sea Level X zip files
+- Open Grasshopper and drag your files
 
 
 -[Link to live VR site](https://sea-level-x-vr.glitch.me/)
 
 -[Link to edit VR site](https://glitch.com/edit/#!/sea-level-x-vr)
+
+-[Link to live AR site](https://sea-level-x-2040.glitch.me)
+
+-[Link to edit VR site](https://glitch.com/edit/#!/sea-level-x-2040)
