@@ -9,6 +9,10 @@ For non-architectural designers, the user can experience a VR walk-through of on
 
 - Download and install dependency Generation https://www.food4rhino.com/en/app/generation
 - Download and install dependency Human UI https://www.food4rhino.com/en/app/human-ui
+- Download and install dependency Firefly https://www.food4rhino.com/en/app/firefly
+- Obtain an Official Sea Level X Mouse
+- Download Arduino and use the pulse sensor code provided
+- Use the diagram for Arduino and pulse sensor setup
 - Download the Sea Level X zip files
 - Open Grasshopper and drag your files
 - Refer to SeaLevelX_example
