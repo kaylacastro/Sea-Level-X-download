@@ -11,6 +11,7 @@ For non-architectural designers, the user can experience a VR walk-through of on
 - Download and install dependency Human UI https://www.food4rhino.com/en/app/human-ui
 - Download the Sea Level X zip files
 - Open Grasshopper and drag your files
+- Refer to SeaLevelX_example
 
 
 -[Link to live VR site](https://sea-level-x-vr.glitch.me/)
